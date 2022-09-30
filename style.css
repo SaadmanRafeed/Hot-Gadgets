@@ -1,9 +1,9 @@
 /* Slider navigation start */
-.carousel-control-prev {
+#carousel-control-prev {
     left: -150px !important;
 }
 
-.carousel-control-next {
+#carousel-control-next {
     right: -150px !important;
 }
 
