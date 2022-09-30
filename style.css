@@ -1,10 +1,10 @@
 /* Slider navigation start */
 .carousel-control-prev {
-    left: -150px;
+    left: -150px !important;
 }
 
 .carousel-control-next {
-    right: -150px;
+    right: -150px !important;
 }
 
 /* Slider navigation end */
