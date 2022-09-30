@@ -3,6 +3,11 @@
     left: -150px !important;
 }
 
+.carousel-control-prev {
+    left: -150px;
+    display: block;
+}
+
 #carousel-control-next {
     right: -150px !important;
 }
